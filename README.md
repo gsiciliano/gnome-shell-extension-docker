@@ -1,5 +1,9 @@
 # Gnome Shell extension for Docker
 
+### This is a forked version of [gpouilloux/gnome-shell-extension-docker](https://github.com/gpouilloux/gnome-shell-extension-docker)
+
+#### Works only from Gnome Shell 3.32
+
 ## Usage
 
 When installing this extension, you will be able to manage your docker containers.
